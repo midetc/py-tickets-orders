@@ -1,5 +1,3 @@
-from datetime import date as dt
-
 from django.db.models import Count, F
 from rest_framework import viewsets, mixins
 from rest_framework.exceptions import ValidationError
